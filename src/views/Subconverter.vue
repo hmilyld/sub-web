@@ -253,6 +253,11 @@ export default {
             label: "customized",
             options: [
               {
+                label: "ACL全规则",
+                value:
+                  "https://raw.githubusercontent.com/mphin/ACL4SSR/main/config/ACL4SSR_Online_Full_MultiMode_777.ini"
+              },
+              {
                 label: "Maying",
                 value:
                   "https://cdn.jsdelivr.net/gh/SleepyHeeead/subconverter-config@master/remote-config/customized/maying.ini"
